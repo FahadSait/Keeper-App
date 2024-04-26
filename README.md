@@ -1,0 +1,1 @@
+This is a Keeper App(Notes App), which allows users to create and organize notes, lists, reminders. Users are can update or delete the notes when completed. While it's more focused on task management than note-taking, users can use it to jot down quick notes or ideas
